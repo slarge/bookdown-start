@@ -1,15 +1,15 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
+title: "XYZ Fisheries Overview"
+author: "International Council for the Exploration of the Sea (ICES)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: seankross/bookdown-start
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+github-repo: slarge/bookdown-start
+url: 
+description: "Bookdown template for ICES Fisheries Overviews."
 ---
 
 # Preface {-}
