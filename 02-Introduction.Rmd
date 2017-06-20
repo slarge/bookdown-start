@@ -1,3 +1,2 @@
-# Diving In
+# Introduction
 
-Now let's talk details.
